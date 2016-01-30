@@ -17,6 +17,6 @@
 + My name is *1.
 - Its a pleasure to meet you <cap1>.  You make call me James.
 
-+ Its nice to meet you, James.
++ Its nice to meet you James.
 - you as well.
 - A pleasure to make your acquaintance.
