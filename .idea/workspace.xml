@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1206e3b-8b11-44fe-b875-6e92be13b2ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/general.ss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/add_diagnosis.ss" afterPath="$PROJECT_DIR$/add_diagnosis.ss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c1206e3b-8b11-44fe-b875-6e92be13b2ea" name="Default" comment="" />
     <ignored path="topics.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,21 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add_dictation.ss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="add_dictation.ss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/add_dictation.ss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="general.ss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/general.ss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12861736">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.25723472">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -337,14 +323,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/add_dictation.ss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/greetings.ss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -369,10 +347,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/general.ss">
+    <entry file="file://$PROJECT_DIR$/add_dictation.ss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12861736">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.25723472">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding />
         </state>
       </provider>
