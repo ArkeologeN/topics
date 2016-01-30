@@ -4,6 +4,6 @@
 - Just peachy.  Seriously!
 - Working, my friend.  Working.
 
-+ I'm [doing] ~good
++ I'm [doing] (good|well|okay)
 - Glad to hear it.
 - That is excellent to hear.  What can I do for you?
