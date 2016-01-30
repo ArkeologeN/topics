@@ -14,8 +14,8 @@
 - Just peachy.  Seriously!
 - Working, my friend.  Working.
 
-+ My name is <name1>.
-- Its a pleasure to meet you <name1>.  You make call me James.
++ My name is *1.
+- Its a pleasure to meet you <cap1>.  You make call me James.
 
 + Its nice to meet you, James.
 - you as well.
