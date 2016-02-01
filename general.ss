@@ -15,7 +15,7 @@
 - Working, my friend.  Working.
 
 + My name is *1.
-- Its a pleasure to meet you <cap1>.  You make call me James.
+- Its a pleasure to meet you <cap1>.  You may call me James.
 
 + Its nice to meet you James.
 - you as well.

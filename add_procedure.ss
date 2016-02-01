@@ -1,6 +1,6 @@
 
 > pre
-+I want to (add |create ) a [new] procedure,
++I want to (add|create) a [new] procedure,
 -{keep} Ok.  So that I can make sure I get this correctly, please use the format "Add a procedure of x" For this demo, we only have cardio related diagnoses.  {topic=add_procedure}
 
 
